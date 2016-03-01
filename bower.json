@@ -1,0 +1,28 @@
+{
+  "name": "techmahindra",
+  "description": "",
+  "main": "src/app.js",
+  "authors": [
+    "shanu <mohdshanil@yahoo.co.in>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.5",
+    "font-awesome": "fontawesome#^4.5.0",
+    "jquery-ui": "^1.11.4",
+    "less": "less.js#^2.6.0",
+    "requirejs": "^2.1.22"
+  }
+}
