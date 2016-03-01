@@ -25,7 +25,7 @@ define(["jquery", "jqueryui", "materialize", "ProgressBarComponent"], function($
           $("#progressbar-1").progressbar("value") + "%");
       },
       complete: function() {
-        // $('#progress-label1').text("100%");
+        
       }
     });
     $("#progressbar-2").progressbar({
@@ -35,7 +35,7 @@ define(["jquery", "jqueryui", "materialize", "ProgressBarComponent"], function($
           $("#progressbar-2").progressbar("value") + "%");
       },
       complete: function() {
-        // $('#progress-label2').text("100%");
+       
       }
     });
     $("#progressbar-3").progressbar({
@@ -45,7 +45,7 @@ define(["jquery", "jqueryui", "materialize", "ProgressBarComponent"], function($
           $("#progressbar-3").progressbar("value") + "%");
       },
       complete: function() {
-        // $('#progress-label3').text("100%");
+        
       }
     });
 
